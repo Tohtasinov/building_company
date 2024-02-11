@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Button, TextField, Typography, Grid, Box } from "@mui/material";
-import background from "../../assets/background.svg";
 
 const Support = (props) => {
   const [name, setName] = useState("");
